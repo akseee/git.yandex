@@ -1,9 +1,7 @@
 # Тренировочный проект для работы с Git  
 
- 
----
 
-### 
+## We are just trying things out
 
 
 
